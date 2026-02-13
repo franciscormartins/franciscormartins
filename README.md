@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Learning 
 
 #### 💻 Languages
 <div align="left">
