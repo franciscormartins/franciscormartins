@@ -34,9 +34,14 @@
 </div>
 
 ---
+### 📩 Contact Me
 
-### 📊 My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yHugoSoares&theme=dracula&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yHugoSoares&theme=dracula&layout=compact" height="150" />
+<div align="left">
+  <a href="mailto:Francisco.Ribeiro.Martins@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/francisco-martins-6a55aa358/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
+
