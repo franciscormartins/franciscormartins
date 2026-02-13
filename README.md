@@ -2,7 +2,7 @@
 
 <p align="left">
   Sou o <strong>Francisco Martins</strong>, aluno de Engenharia de Software na <strong>Universidade do Minho</strong> 🎓. 
-  Embora esteja a explorar um pouco de todas as áreas do desenvolvimento, o meu grande foco e paixão residem em <strong>Cibersegurança</strong> 🛡️.
+  Embora esteja a explorar um pouco de todas as áreas do desenvolvimento, tenho maior enteresse em <strong>Cibersegurança</strong> 🛡️.
 </p>
 
 ---
