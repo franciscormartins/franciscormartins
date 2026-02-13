@@ -1,15 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Francisco Martins</h1>
 
 <p align="left">
-  Sou o <strong>Francisco Martins</strong>, aluno de Engenharia de Software na <strong>Universidade do Minho</strong> 🎓. 
-  Embora esteja a explorar um pouco de todas as áreas do desenvolvimento, tenho maior enteresse em <strong>Cibersegurança</strong> 🛡️.
+  I am a <strong>Software Engineering</strong> student at the <strong>University of Minho</strong> 🎓. 
+  While I explore various fields of development, I have a core focus and a strong interest in <strong>Cybersecurity</strong> 🛡️.
 </p>
 
 ---
 
 ### 🛠️ Skills & Tools
 
-#### 💻 Linguagens
+#### 💻 Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus" />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vue" />
 </div>
 
-#### 🗄️ Bases de Dados & Ferramentas
+#### 🗄️ Databases & Design Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" />
